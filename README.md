@@ -53,19 +53,11 @@ To solve this, I designed an **interactive Power BI dashboard** that cleans, com
 
 ---
 
-## 🎥 Project Demo Video
-
-📺 Watch the video demonstration here:  
-👉 [Click to Watch Sales Project Video](Sales_project_1.mp4)
-
----
-
 ## 📂 Project Files Included
 
 - `Sales_Dashboard_2022_24.pbix` – Power BI file  
 - `Sales_Data_2022_24.xlsx` – Dataset  
 - `Sales_Dashboard_Screenshot.png` – Dashboard image  
-- `Dashboard_Video.mp4` – Project walkthrough  
 - `README.md` – Project documentation
 
 ---
