@@ -49,14 +49,14 @@ To solve this, I designed an **interactive Power BI dashboard** that cleans, com
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard ](Sales_Dashboard.png)
+![Sales Dashboard](Sale_Dashboard.png)
 
 ---
 
 ## 🎥 Project Demo Video
 
 📺 Watch the video demonstration here:  
-👉 [Add your video link here — e.g., Google Drive or YouTube link]
+👉 [Click to Watch Sales Project Video](Sales_project_1.mp4)
 
 ---
 
